@@ -2,7 +2,7 @@
 
 ![Header](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pfofv47dooojerkmfgr4.png)
 
-This is the codebase to go along with tbe blog post [Building a Full Stack NFT Marketplace on Ethereum with Polygon](https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
+This is the codebase to go along with tbe blog post [Building a Full Stack NFT Marketplace on Ethereum with Polygon](https://dev.to/RBrooks76/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
 
 ### Running this project
 
@@ -12,7 +12,7 @@ To deploy this project to Gitpod, follow these steps:
 
 1. Click this link to deploy
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/dabit3/polygon-ethereum-nextjs-marketplace)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/RBrooks76/polygon-ethereum-nft-marketplace)
 
 2. Import the RPC address given to you by GitPod into your MetaMask wallet
 
@@ -33,7 +33,7 @@ To run this project locally, follow these steps.
 1. Clone the project locally, change into the directory, and install the dependencies:
 
 ```sh
-git clone https://github.com/dabit3/polygon-ethereum-nextjs-marketplace.git
+git clone https://github.com/RBrooks76/polygon-ethereum-nextjs-marketplace.git
 
 cd polygon-ethereum-nextjs-marketplace
 
